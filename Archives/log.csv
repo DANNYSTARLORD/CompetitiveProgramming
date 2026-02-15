@@ -1,0 +1,103 @@
+timestamp,platform,problem,topics
+2025-09-14T16:30:59,cses,CreatingStrings,backtracking/permutations strings/permutations
+2025-09-15T18:16:06,cses,ChessboardAndQueens,backtracking/nqueens
+2025-09-15T22:06:19,usaco,AirConditioning-II,backtracking/optimization
+2025-09-17T12:32:09,cf,2143B,sortings/greedy
+2025-09-17T12:33:42,cf,2143A,c_a/ordering
+2025-09-20T14:02:44,icpc,ExactChange,dp/coin_greedy
+2025-09-20T16:06:07,icpc,CoinCombinations,dp/coin_change
+2025-09-22T19:37:04,usaco,TheBovineShuffle,simulation/shuffling
+2025-09-22T21:37:48,cses,CreatingStrings,backtracking/permutations strings/permutations
+2025-09-23T18:10:32,usaco,TheBucketList,simulation/scheduling
+2025-09-23T19:27:24,lc,547,graphs/connected_components
+2025-09-23T19:28:24,lc,547_NumberOfProvinces,graphs/connected_components
+2025-09-25T12:50:24,lc,207_CourseSchedule,graphs/toposort
+2025-09-25T13:07:10,lc,210_CourseSchedule,graphs/toposort
+2025-09-26T18:53:22,lc,990_SatisfiabilityOfEqualityEquations,graphs/dsu
+2025-09-27T16:40:11,icpc,BadPacking,dp/knapsack
+2025-09-29T12:31:50,lc,1319_NumberOfOperationsToMakeNetworkConnected,graphs/dsu
+2025-09-29T14:35:31,lc,2316_CountUnreachablePairsOfNodesInAnUndirectedGraph,graphs/connected_components
+2025-09-29T14:54:35,usaco,MilkPails,implementation
+2025-09-29T16:24:36,usaco,CowGymnastics,implementation
+2025-09-29T17:31:48,cses,CountingRooms,graphs/connected_components
+2025-09-29T22:11:38,cses,Labyrinth,graphs/shortest_path
+2025-10-02T12:49:06,cf,863B,sortings/enumeration
+2025-10-03T18:11:06,icpc,ADFGVX,strings/cipher implementation
+2025-10-03T21:09:18,cses,BuildingRoads,graphs/dsu
+2025-10-03T22:01:44,lc,NetworkDelayTime,graphs/shortest_path
+2025-10-04T11:54:21,cses,MoneySums,dp/knapsack
+2025-10-04T21:25:39,icpc,AddAll,c_a/priority_queue
+2025-10-06T10:35:27,icpc,TransportingSpaghetti,math
+2025-10-06T15:09:23,usaco,WhereAmI,c_a/string_construction
+2025-10-08T22:04:03,usaco,LivestockLineup,c_a/ordering
+2025-10-09T20:05:00,cf,3-palindrome,c_a/string_construction
+2025-10-11T11:48:09,lc,ShortestPathInBinaryMatrix,graphs/shortest_path
+2025-10-11T12:30:23,lc,ShortestPathInAGridWithObstaclesElimination,graphs/shortest_path
+2025-10-13T11:11:48,icpc,ArtInstallation,implementation
+2025-10-13T14:19:22,icpc,CarlsMaze-SolvingAlgorithm,simulation/maze implementation
+2025-10-13T22:44:59,usaco,BovineGenomics,implementation
+2025-10-14T11:49:22,icpc,TenPlayerBingo,c_a/math_tricks
+2025-10-14T11:54:30,icpc,DistinctNumbers,implementation
+2025-10-15T15:14:35,usaco,DontBeLast!,implementation
+2025-10-19T13:53:27,icpc,Pianissimo,c_a/ordering sortings/custom_order binary-search implementation
+2025-10-19T19:14:57,lc,PathWithMinimumEffort,graphs/shortest_path
+2025-10-21T23:45:52,cses,BuildingTeams,graphs/bipartite
+2025-10-22T22:00:02,usaco,Moocast,graphs/reachability
+2025-10-23T12:10:05,cses,FlightRoutesCheck,graphs/scc
+2025-10-23T16:09:14,usaco,FencePlanning,graphs/scc
+2025-10-23T18:20:39,usaco,IcyPerimeter,graphs/traversal
+2025-10-23T20:23:20,cses,MessageRoutes,graphs/shortest_path
+2025-10-23T20:41:27,cses,HiddenInteger,interactive
+2025-10-23T22:19:31,cses,SlidingWindowSum,SlidingWindow
+2025-10-24T12:37:50,cf,2156A,math
+2025-10-24T12:38:18,cf,2156B,math simulation
+2025-10-27T12:42:38,cf,1365D,graphs/bfs c_a
+2025-10-27T21:13:18,cses,Subordinates,graphs/trees
+2025-10-27T21:13:36,cf,321C,graphs/trees
+2025-10-28T12:58:39,cf,2167A,
+2025-10-28T13:02:24,cf,2167B,
+2025-10-28T13:02:42,cf,2167C,
+2025-10-28T13:03:30,cf,2167D,math
+2025-10-28T13:04:11,cf,2167E,implementation
+2025-10-28T13:04:35,cf,2167G,dp
+2025-10-28T17:14:18,cf,638C,graphs/traversal
+2025-10-28T18:45:34,cses,CountingDivisors,math
+2025-10-28T22:02:37,cf,1239C,math/nt
+2025-10-30T11:46:04,cf,2132B,math
+2025-10-30T12:43:35,cf,2125B,math
+2025-10-30T18:56:02,cf,1916B,math/nt
+2025-10-31T16:45:58,lc,994_RottingOranges,graphs/traversal
+2025-10-31T21:32:56,lc,1765_MapOfHighestPeak,graphs/traversal
+2025-11-02T12:08:35,icpc,ReversiblyCyclicStrings,strings
+2025-11-02T12:14:17,icpc,RestaurantOpening,math implementation
+2025-11-02T12:31:15,icpc,WhoGoesThere,binary-search
+2025-11-03T19:03:41,cses,ReadingBooks,sortings
+2025-11-03T19:05:08,cses,BitStrings,bitmasks
+2025-11-03T21:48:16,lc,IncreasingTripletSubsequence,greedy
+2025-11-03T22:43:49,cses,TwoSets,greedy
+2025-11-04T12:17:12,cf,EDU/ClosestToTheLeft,binary-search
+2025-11-04T12:21:28,cf,EDU/ClosestToTheRight,binary-search
+2025-11-05T21:00:54,lc,MinCosttoConnectAllPoints,graphs/trees
+2025-11-06T10:39:29,cf,1872E,bitmasks
+2025-11-06T15:06:42,cf,242C,graphs/bfs
+2025-11-07T10:56:23,cses,CourseSchedule,graphs/toposort
+2025-11-07T12:14:30,cses,SlidingWindowXor,slidingwindow
+2025-11-09T17:19:01,icpc,verfication,
+2025-11-09T17:25:40,lc,MinimumDistanceBetweenThreeEqualElementsII,sortings
+2025-11-10T16:38:27,ac,ABC_BuyBalls,sortings
+2025-11-10T22:18:31,lc,MaximumPathScoreInAGrid,dp
+2025-11-13T10:39:24,cses,RoadReparation,trees
+2025-11-13T20:18:25,cses,MSTEdgeCheck,trees
+2025-11-13T20:56:57,cses,MissingNumber
+2025-12-01T22:14:37,cses,NearestSmallerValues,stack
+2025-12-03T22:41:09,ac,ABC_Scope,stack
+2025-12-07T18:25:01,lc,Count,Collisions on a Road stack
+2025-12-11T14:15:22,icpc,BabyShark,strings
+2025-12-16T17:56:25,cf,1097B,bitmasks
+2025-12-16T18:58:13,cf,1646C,bitmasks
+2025-12-23T17:50:25,cses,StaticRangeSumQueries,prefixsum
+2025-12-28T17:15:55,cses,SubarraySumI,slidingwindow
+2026-01-15T13:00:00,lc,802_FindEventualSafeStates,graphs/toposort
+2026-01-22T10:10:48,cf,1833E,graphs/dsu
+2026-01-31T22:08:54,misc,kattis_MagicalCows,dp
+2026-02-10T12:33:23,cses,SubarraySumsII,prefixsum
