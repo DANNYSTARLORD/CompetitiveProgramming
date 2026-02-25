@@ -12,17 +12,10 @@ using v = vector<T>;
 #define dbg(x)
 #endif
 
-void bfs(v<int> &board){
-
-}
 
 void solve()
 {
-    int n; cin >> n;
-    v<v<int>> board(n, v<int>(n, INT_MAX));
-    bfs(board);
-
-    for(int i )
+    
 }
 
 int main()

@@ -103,3 +103,4 @@ timestamp,platform,problem,topics
 2026-02-10T12:33:23,cses,SubarraySumsII,prefixsum
 2026-02-14T22:03:46,lc,Toggle_Light_Bulbs,
 2026-02-17T12:28:42,lc,643_Maximum_Average_SubarrayI,prefixsum
+2026-02-18T11:22:33,cses,KnightMovesGrid,graphs/bfs
