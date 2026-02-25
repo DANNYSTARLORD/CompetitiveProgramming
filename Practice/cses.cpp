@@ -15,7 +15,8 @@ using v = vector<T>;
 
 void solve()
 {
-    
+    int n, m; cin >> n >> m;
+    v<v<char>> grid(n, v<char>m);dsfaf
 }
 
 int main()
