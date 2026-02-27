@@ -12,8 +12,26 @@ using v = vector<T>;
 #define dbg(x)
 #endif
 
+struct Info
+{
+    int arrival, departure;
+};
+
 void solve()
 {
+    int n;
+    cin >> n;
+    v<Info> ppl(n);
+    for (auto &i : ppl)
+        cin >> i.arrival >> i.departure;
+
+    // departure, room no.
+    priority_queue<pair<int, int>, v<pair<int, int>>, greater<pair<int, int>>> q;
+
+    sort(all(ppl), [](const auto &a, const auto &b)
+         { return a.arrival < b.arrival; });
+
+    
 }
 
 int main()
