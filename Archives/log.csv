@@ -107,3 +107,4 @@ timestamp,platform,problem,topics
 2026-02-26T16:50:16,cses,Monsters,graphs/bfs
 2026-03-03T14:07:09,lc,1004_Max_Consecutive_Ones_III,prefixsum
 2026-03-16T19:24:02,cses,RoomAllocation,greedy
+2026-03-23T18:03:05,lc,3843_First_Element_with_Unique_Frequency,implementation
