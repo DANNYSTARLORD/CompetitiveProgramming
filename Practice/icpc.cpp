@@ -11,9 +11,17 @@ using v = vector<T>;
 #define dbg(x)
 #endif
 
+struct Tap{
+    double temp, a, b;
+};
+
 signed main()
 {
     cin.tie(nullptr)->sync_with_stdio(false);
+
+    int n; cin >> n;
+    v<Tap> taps(n);
+    for(auto &tap : taps) cin >> tap.temp >> tap.a >> tap.b;
 
     
 
